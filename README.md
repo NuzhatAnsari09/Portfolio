@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+<h2 title="hehehe"> Hey 👋, I'm Nuzhta Ansari</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="#">
+  <img align="left" alt="Nuzhats LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/nuzzi___09/" target='_blank'>
+  <img align="left" alt="Nuzhats Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="#">
+  <img align="left" alt="Nuzhats Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+</a>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+ 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
-### `npm run build`
+**About Me!**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 👨🏽‍💻 I’m currently a BSC CS Undergrad student at TCSC, Mumbai.
+- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [nuzhatk121@gmail.com](mailto:nuzhatk121@gmail.com).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+**Languages and Tools:**  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-## Learn More
+<img src="https://github-readme-stats.vercel.app/api?username=NuzhatAnsari09&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="NuzhatAnsari09 GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NuzhatAnsari09&count_private=true&theme=radical" alt="NuzhatAnsari09" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuzhatAnsari09&count_private=true&theme=radical" alt="NuzhatAnsari09" />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
